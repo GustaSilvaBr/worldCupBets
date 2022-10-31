@@ -464,6 +464,162 @@
                 "score":0
             },
             "group":"F"
+        },
+        
+
+
+
+
+
+
+
+        {
+            "date": "2022-11-24UTC07:00:00Z",
+            "teamA": {
+                "team":"Suíça",
+                "score":0
+            },
+            "teamB": {
+                "team":"Camarões",
+                "score":0
+            },
+            "group":"G"
+        },
+        {
+            "date": "2022-11-24UTC16:00:00Z",
+            "teamA": {
+                "team":"Brasil",
+                "score":0
+            },
+            "teamB": {
+                "team":"Sérvia",
+                "score":0
+            },
+            "group":"G"
+        },
+        {
+            "date": "2022-11-28UTC07:00:00Z",
+            "teamA": {
+                "team":"Camarões",
+                "score":0
+            },
+            "teamB": {
+                "team":"Sérvia",
+                "score":0
+            },
+            "group":"G"
+        },
+        {
+            "date": "2022-11-28UTC13:00:00Z",
+            "teamA": {
+                "team":"Brasil",
+                "score":0
+            },
+            "teamB": {
+                "team":"Suíça",
+                "score":0
+            },
+            "group":"G"
+        },
+        {
+            "date": "2022-12-02UTC16:00:00Z",
+            "teamA": {
+                "team":"Sérvia",
+                "score":0
+            },
+            "teamB": {
+                "team":"Suíça",
+                "score":0
+            },
+            "group":"G"
+        },
+        {
+            "date": "2022-12-02UTC16:00:00Z",
+            "teamA": {
+                "team":"Camarões",
+                "score":0
+            },
+            "teamB": {
+                "team":"Brasil",
+                "score":0
+            },
+            "group":"G"
+        },
+
+
+
+        
+        {
+            "date": "2022-11-24UTC10:00:00Z",
+            "teamA": {
+                "team":"Uruguai",
+                "score":0
+            },
+            "teamB": {
+                "team":"Coreia do Sul",
+                "score":0
+            },
+            "group":"H"
+        },
+        {
+            "date": "2022-11-24UTC13:00:00Z",
+            "teamA": {
+                "team":"Portugal",
+                "score":0
+            },
+            "teamB": {
+                "team":"Gana",
+                "score":0
+            },
+            "group":"H"
+        },
+        {
+            "date": "2022-11-28UTC10:00:00Z",
+            "teamA": {
+                "team":"Coreia do Sul",
+                "score":0
+            },
+            "teamB": {
+                "team":"Gana",
+                "score":0
+            },
+            "group":"H"
+        },
+        {
+            "date": "2022-11-28UTC16:00:00Z",
+            "teamA": {
+                "team":"Portugal",
+                "score":0
+            },
+            "teamB": {
+                "team":"Uruguai",
+                "score":0
+            },
+            "group":"H"
+        },
+        {
+            "date": "2022-12-02UTC12:00:00Z",
+            "teamA": {
+                "team":"Coreia do Sul",
+                "score":0
+            },
+            "teamB": {
+                "team":"Portugal",
+                "score":0
+            },
+            "group":"H"
+        },
+        {
+            "date": "2022-12-02UTC12:00:00Z",
+            "teamA": {
+                "team":"Gana",
+                "score":0
+            },
+            "teamB": {
+                "team":"Uruguai",
+                "score":0
+            },
+            "group":"H"
         }
 
     ]
