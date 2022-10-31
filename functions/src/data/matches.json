@@ -306,6 +306,165 @@
                 "score":0
             },
             "group":"D"
+        },
+
+
+
+
+
+
+
+        {
+            "date": "2022-11-23UTC10:00:00Z",
+            "teamA": {
+                "team":"Alemanha",
+                "score":0
+            },
+            "teamB": {
+                "team":"Japão",
+                "score":0
+            },
+            "group":"E"
+        },
+        {
+            "date": "2022-11-23UTC13:00:00Z",
+            "teamA": {
+                "team":"Espanha",
+                "score":0
+            },
+            "teamB": {
+                "team":"Costa Rica",
+                "score":0
+            },
+            "group":"E"
+        },
+        {
+            "date": "2022-11-27UTC07:00:00Z",
+            "teamA": {
+                "team":"Japão",
+                "score":0
+            },
+            "teamB": {
+                "team":"Costa Rica",
+                "score":0
+            },
+            "group":"E"
+        },
+        {
+            "date": "2022-11-27UTC16:00:00Z",
+            "teamA": {
+                "team":"Espanha",
+                "score":0
+            },
+            "teamB": {
+                "team":"Alemanha",
+                "score":0
+            },
+            "group":"E"
+        },
+        {
+            "date": "2022-12-01UTC16:00:00Z",
+            "teamA": {
+                "team":"Japão",
+                "score":0
+            },
+            "teamB": {
+                "team":"Espanha",
+                "score":0
+            },
+            "group":"E"
+        },
+        {
+            "date": "2022-12-01UTC16:00:00Z",
+            "teamA": {
+                "team":"Costa Rica",
+                "score":0
+            },
+            "teamB": {
+                "team":"Alemanha",
+                "score":0
+            },
+            "group":"E"
+        },
+
+
+
+
+
+
+
+        {
+            "date": "2022-11-23UTC07:00:00Z",
+            "teamA": {
+                "team":"Marrocos",
+                "score":0
+            },
+            "teamB": {
+                "team":"Croácia",
+                "score":0
+            },
+            "group":"F"
+        },
+        {
+            "date": "2022-11-23UTC16:00:00Z",
+            "teamA": {
+                "team":"Bélgica",
+                "score":0
+            },
+            "teamB": {
+                "team":"Canadá",
+                "score":0
+            },
+            "group":"F"
+        },
+        {
+            "date": "2022-11-27UTC10:00:00Z",
+            "teamA": {
+                "team":"Bélgica",
+                "score":0
+            },
+            "teamB": {
+                "team":"Marrocos",
+                "score":0
+            },
+            "group":"F"
+        },
+        {
+            "date": "2022-11-27UTC13:00:00Z",
+            "teamA": {
+                "team":"Croácia",
+                "score":0
+            },
+            "teamB": {
+                "team":"Canadá",
+                "score":0
+            },
+            "group":"F"
+        },
+        {
+            "date": "2022-12-01UTC12:00:00Z",
+            "teamA": {
+                "team":"Croácia",
+                "score":0
+            },
+            "teamB": {
+                "team":"Bélgica",
+                "score":0
+            },
+            "group":"F"
+        },
+        {
+            "date": "2022-12-01UTC12:00:00Z",
+            "teamA": {
+                "team":"Canadá",
+                "score":0
+            },
+            "teamB": {
+                "team":"Marrocos",
+                "score":0
+            },
+            "group":"F"
         }
+
     ]
 }
